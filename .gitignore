@@ -115,3 +115,5 @@ stem*.png
 ./data
 
 node_modules
+
+.cursor 
